@@ -4,6 +4,8 @@ whoami
 echo
 pwd
 echo
+ls
+echo
 hostname
 echo
 ps
